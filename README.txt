@@ -37,3 +37,4 @@ Noticed I uncommented the wrong lines in the cmder config file (used paegent ins
 "another fix to bug#1234"
 
 "a 3rd change to feature2" 
+first change to v2.0  
