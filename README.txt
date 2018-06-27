@@ -29,3 +29,4 @@ Noticed I uncommented the wrong lines in the cmder config file (used paegent ins
 
 
 "fixing bug #1234"  
+"another fix to bug#1234"  
