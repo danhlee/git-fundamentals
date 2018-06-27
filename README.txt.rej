@@ -1,0 +1,7 @@
+--- README.txt
++++ README.txt
+@@ -31,4 +31,3 @@ Noticed I uncommented the wrong lines in the cmder config file (used paegent ins
+ 
+ "Feature1"  
+ "Feature 2"  
+-"feature2 changes"  
