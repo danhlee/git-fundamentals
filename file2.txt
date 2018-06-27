@@ -1,1 +1,3 @@
 Adding new stuff to file2!
+
+"Fix 2"

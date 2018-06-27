@@ -1,7 +1,6 @@
 added text to file 1
 added 2nd line of text to file 1
 
-
 another change after making remote repo!!!
 
 
@@ -18,5 +17,4 @@ making changes to test out feature3 branch :D
 another change after making remote repo!!!
 
 
-"fix 1"  
-
+"fix 1"
