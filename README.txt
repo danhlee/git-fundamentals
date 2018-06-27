@@ -30,7 +30,10 @@ Noticed I uncommented the wrong lines in the cmder config file (used paegent ins
 
 "Feature1"  
 "Feature 2"  
+
 "feature2 changes"
 
 "fixing bug #1234"
 "another fix to bug#1234"
+
+"a 3rd change to feature2" 
