@@ -20,4 +20,8 @@ This time I'll try pushing from git bash instead of cmd prompt
 -it worked in bash
 
 Made some changes to cmder config to see if I could push changes without having to use password everytime using cmder
+-didn't work..
+
+Maybe you have to type in the password at least once before it's automatic?
+
 
