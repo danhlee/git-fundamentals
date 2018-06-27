@@ -28,3 +28,4 @@ Maybe you have to type in the password at least once before it's automatic?
 Noticed I uncommented the wrong lines in the cmder config file (used paegent instead of ssh agent)
 
 
+"fixing bug #1234"  
