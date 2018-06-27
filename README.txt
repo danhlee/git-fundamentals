@@ -9,3 +9,6 @@ sharing remotely is fun and easy
 
 MADE MORE CHANGES!!!!
 
+this text was added after changing origin to use SSH
+
+
