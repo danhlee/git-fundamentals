@@ -23,5 +23,8 @@ Made some changes to cmder config to see if I could push changes without having 
 -didn't work..
 
 Maybe you have to type in the password at least once before it's automatic?
+-didn't work
+
+Noticed I uncommented the wrong lines in the cmder config file (used paegent instead of ssh agent)
 
 
