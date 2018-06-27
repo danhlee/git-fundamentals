@@ -4,3 +4,6 @@ added 2nd line of text to file 1
 another change after making remote repo!!!
 
 This change was made via the website to test fetching and merging
+-fetch will bring in new changes others made from REMOTE but won't change my working code base
+
+Let's do one more test (this was added via website)
