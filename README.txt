@@ -13,3 +13,6 @@ this text was added after changing origin to use SSH
 
 additional changes after SSH setup
 
+Let's see if my ssh key was added to my ssh-agent so I don't have to type my pass everytime...
+
+
