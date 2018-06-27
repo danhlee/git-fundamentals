@@ -30,3 +30,4 @@ Noticed I uncommented the wrong lines in the cmder config file (used paegent ins
 
 
 "Feature1"  
+"Feature 2"  
