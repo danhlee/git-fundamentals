@@ -17,5 +17,7 @@ Let's see if my ssh key was added to my ssh-agent so I don't have to type my pas
 -It didn't work...
 
 This time I'll try pushing from git bash instead of cmd prompt
+-it worked in bash
 
+Made some changes to cmder config to see if I could push changes without having to use password everytime using cmder
 
