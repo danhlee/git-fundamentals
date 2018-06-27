@@ -1,6 +1,7 @@
 added text to file 1
 added 2nd line of text to file 1
 
+
 another change after making remote repo!!!
 
 
@@ -13,3 +14,9 @@ Let's do one more test (this was added via website)
 -hint: Updates were rejected because the tip of your current branch is behind
 
 making changes to test out feature3 branch :D
+
+another change after making remote repo!!!
+
+
+"fix 1"  
+
